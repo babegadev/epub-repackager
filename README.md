@@ -2,6 +2,8 @@
 
 A browser-only EPUB repair tool for fixing Apple Books exploded folders and broken EPUB archives.
 
+Live site: https://babegadev.github.io/epub-repackager/
+
 ## Development
 
 1. Install dependencies with `npm install`.
