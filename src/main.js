@@ -1,7 +1,7 @@
 import "./styles.css";
 import { buildBulkZip, repairEpub, safeOutputName } from "./epub.js";
 
-const GITHUB_URL = "https://github.com";
+const GITHUB_URL = "https://github.com/babegadev/epub-repackager";
 
 const app = document.querySelector("#app");
 
